@@ -1,3 +1,7 @@
+# React Weather Learning Demo
+
+API keys must be supplied locally by the person running the demo. Read [SECURITY.md](SECURITY.md) for browser exposure limits and outstanding historical remediation.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
